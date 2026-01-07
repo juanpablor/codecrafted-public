@@ -4,5 +4,5 @@ Disallow: /admin/
 Disallow: /drafts/
 Disallow: /temp/
 Disallow: /404.html
-Sitemap: https://www.codecrafted.co/sitemap-index.xml
-Host: https://www.codecrafted.co
+Sitemap: https://codecrafted.co/sitemap-index.xml
+Host: https://codecrafted.co
