@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcorpo_code_crafted_studios=self.webpackChunkcorpo_code_crafted_studios||[]).push([[453],{731:function(e,t,c){c.r(t);var r=c(6540),u=c(4564);c(8526)[0];t.default=()=>r.createElement(u.default,null,r.createElement("h1",null,"404 error page"))}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-9de5f18d461f7ab04c03.js.map
