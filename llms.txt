@@ -1,0 +1,40 @@
+# Code Crafted Studios
+
+> Multilingual website for Code Crafted Studios, focused on web design and development, SEO, AI search optimization, website maintenance, analytics, portfolio proof, and contact-driven lead generation.
+
+## Canonical Site
+- https://codecrafted.co/
+
+## Primary Pages
+- https://codecrafted.co/
+- https://codecrafted.co/about/
+- https://codecrafted.co/services/
+- https://codecrafted.co/portfolio/
+- https://codecrafted.co/blog/
+- https://codecrafted.co/contact/
+
+## Core Services
+- https://codecrafted.co/services/web-design-development/
+- https://codecrafted.co/services/seo/
+- https://codecrafted.co/services/ai-search-optimization/
+- https://codecrafted.co/services/maintenance/
+- https://codecrafted.co/services/analytics/
+
+## Supporting Proof
+- https://codecrafted.co/portfolio/
+- https://codecrafted.co/portfolio/case-studies/reef-cleaning-company/
+- https://codecrafted.co/portfolio/case-studies/envirogun/
+- https://codecrafted.co/portfolio/case-studies/chester-court/
+
+## Published Blog Hub
+- https://codecrafted.co/blog/
+
+## Notes For Language Handling
+- French is the default language and uses canonical paths without a `/fr/` prefix.
+- English and Spanish versions are available under `/en/` and `/es/`.
+- Prefer canonical default-language URLs when citing the site unless a user explicitly requests a localized variant.
+
+## Reliability Notes
+- Use published service pages, case studies, and blog posts as the source of truth.
+- Do not infer pricing, guarantees, or client results that are not explicitly stated on the site.
+- Treat `llms.txt` as a discovery aid, not as a replacement for page-level content.
