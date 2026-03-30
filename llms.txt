@@ -1,40 +1,143 @@
 # Code Crafted Studios
 
-> Multilingual website for Code Crafted Studios, focused on web design and development, SEO, AI search optimization, website maintenance, analytics, portfolio proof, and contact-driven lead generation.
+> Published discovery index for AI systems and editorial crawlers. This file lists the most strategic live URLs on the site, grouped by content family and by language equivalent.
 
-## Canonical Site
+## Canonical Domain
 - https://codecrafted.co/
 
-## Primary Pages
-- https://codecrafted.co/
-- https://codecrafted.co/about/
-- https://codecrafted.co/services/
-- https://codecrafted.co/portfolio/
-- https://codecrafted.co/blog/
-- https://codecrafted.co/contact/
+## Language Convention
+- The site is published in French, English, and Spanish.
+- French is the technical default language and uses paths without a `/fr/` prefix.
+- Do not prefer French only because it is the default-language path.
+- When a page has FR, EN, and ES equivalents, keep those URLs grouped together and choose the variant that matches the user language or citation context.
+
+## Pillar Pages
+- Home
+  - FR: https://codecrafted.co/
+  - EN: https://codecrafted.co/en/
+  - ES: https://codecrafted.co/es/
+- Services hub
+  - FR: https://codecrafted.co/services/
+  - EN: https://codecrafted.co/en/services/
+  - ES: https://codecrafted.co/es/services/
+- Portfolio hub
+  - FR: https://codecrafted.co/portfolio/
+  - EN: https://codecrafted.co/en/portfolio/
+  - ES: https://codecrafted.co/es/portfolio/
+- Blog hub
+  - FR: https://codecrafted.co/blog/
+  - EN: https://codecrafted.co/en/blog/
+  - ES: https://codecrafted.co/es/blog/
+- Contact
+  - FR: https://codecrafted.co/contact/
+  - EN: https://codecrafted.co/en/contact/
+  - ES: https://codecrafted.co/es/contact/
+
+## About / Author
+- About / founder profile
+  - FR: https://codecrafted.co/about/
+  - EN: https://codecrafted.co/en/about/
+  - ES: https://codecrafted.co/es/about/
 
 ## Core Services
-- https://codecrafted.co/services/web-design-development/
-- https://codecrafted.co/services/seo/
-- https://codecrafted.co/services/ai-search-optimization/
-- https://codecrafted.co/services/maintenance/
-- https://codecrafted.co/services/analytics/
+- Web Design & Development
+  - FR: https://codecrafted.co/services/web-design-development/
+  - EN: https://codecrafted.co/en/services/web-design-development/
+  - ES: https://codecrafted.co/es/services/web-design-development/
+- SEO
+  - FR: https://codecrafted.co/services/seo/
+  - EN: https://codecrafted.co/en/services/seo/
+  - ES: https://codecrafted.co/es/services/seo/
+- AI Search Optimization
+  - FR: https://codecrafted.co/services/ai-search-optimization/
+  - EN: https://codecrafted.co/en/services/ai-search-optimization/
+  - ES: https://codecrafted.co/es/services/ai-search-optimization/
+- Website Maintenance
+  - FR: https://codecrafted.co/services/maintenance/
+  - EN: https://codecrafted.co/en/services/maintenance/
+  - ES: https://codecrafted.co/es/services/maintenance/
+- Analytics
+  - FR: https://codecrafted.co/services/analytics/
+  - EN: https://codecrafted.co/en/services/analytics/
+  - ES: https://codecrafted.co/es/services/analytics/
 
-## Supporting Proof
-- https://codecrafted.co/portfolio/
-- https://codecrafted.co/portfolio/case-studies/reef-cleaning-company/
-- https://codecrafted.co/portfolio/case-studies/envirogun/
-- https://codecrafted.co/portfolio/case-studies/chester-court/
+## Buyer-Intent Landings
+- Website redesign for service businesses
+  - FR: https://codecrafted.co/website-redesign-service-businesses/
+  - EN: https://codecrafted.co/en/website-redesign-service-businesses/
+  - ES: https://codecrafted.co/es/website-redesign-service-businesses/
+- Monthly website maintenance
+  - FR: https://codecrafted.co/monthly-website-maintenance/
+  - EN: https://codecrafted.co/en/monthly-website-maintenance/
+  - ES: https://codecrafted.co/es/monthly-website-maintenance/
+- Multilingual SEO audit
+  - FR: https://codecrafted.co/multilingual-seo-audit/
+  - EN: https://codecrafted.co/en/multilingual-seo-audit/
+  - ES: https://codecrafted.co/es/multilingual-seo-audit/
 
-## Published Blog Hub
-- https://codecrafted.co/blog/
+## Industry Landings
+- Builders
+  - FR: https://codecrafted.co/contractors/
+  - EN: https://codecrafted.co/en/contractors/
+  - ES: https://codecrafted.co/es/contractors/
+- Hospitality
+  - FR: https://codecrafted.co/hospitality/
+  - EN: https://codecrafted.co/en/hospitality/
+  - ES: https://codecrafted.co/es/hospitality/
+- Clinics & Wellness
+  - FR: https://codecrafted.co/clinics-wellness/
+  - EN: https://codecrafted.co/en/clinics-wellness/
+  - ES: https://codecrafted.co/es/clinics-wellness/
+- Professional Services
+  - FR: https://codecrafted.co/professional-services/
+  - EN: https://codecrafted.co/en/professional-services/
+  - ES: https://codecrafted.co/es/professional-services/
 
-## Notes For Language Handling
-- French is the default language and uses canonical paths without a `/fr/` prefix.
-- English and Spanish versions are available under `/en/` and `/es/`.
-- Prefer canonical default-language URLs when citing the site unless a user explicitly requests a localized variant.
+## Case Studies
+- Chester Court
+  - FR: https://codecrafted.co/portfolio/case-studies/chester-court/
+  - EN: https://codecrafted.co/en/portfolio/case-studies/chester-court/
+  - ES: https://codecrafted.co/es/portfolio/case-studies/chester-court/
+- Envirogun
+  - FR: https://codecrafted.co/portfolio/case-studies/envirogun/
+  - EN: https://codecrafted.co/en/portfolio/case-studies/envirogun/
+  - ES: https://codecrafted.co/es/portfolio/case-studies/envirogun/
+- Reef Cleaning Company
+  - FR: https://codecrafted.co/portfolio/case-studies/reef-cleaning-company/
+  - EN: https://codecrafted.co/en/portfolio/case-studies/reef-cleaning-company/
+  - ES: https://codecrafted.co/es/portfolio/case-studies/reef-cleaning-company/
+
+## GEO Blog Posts
+- What Is GEO? AI Search Optimization for Service Businesses
+  - FR: https://codecrafted.co/blog/what_is_geo_ai_search_optimization/
+  - EN: https://codecrafted.co/en/blog/what_is_geo_ai_search_optimization/
+  - ES: https://codecrafted.co/es/blog/what_is_geo_ai_search_optimization/
+- SEO vs GEO vs AEO: What Changes and What Still Matters
+  - FR: https://codecrafted.co/blog/seo_vs_geo_vs_aeo/
+  - EN: https://codecrafted.co/en/blog/seo_vs_geo_vs_aeo/
+  - ES: https://codecrafted.co/es/blog/seo_vs_geo_vs_aeo/
+- Structured Data for AI Search: What Helps and What Doesn't
+  - FR: https://codecrafted.co/blog/structured_data_for_ai_search/
+  - EN: https://codecrafted.co/en/blog/structured_data_for_ai_search/
+  - ES: https://codecrafted.co/es/blog/structured_data_for_ai_search/
+
+## Inclusion Criteria
+- Include published pages that are strategically useful for discovery, citation, evaluation, or conversion.
+- Include core hubs, primary services, high-intent commercial landings, flagship industry pages, case studies with real context, and evergreen GEO posts that explain the methodology behind the site.
+- Include grouped language equivalents when the same page exists across FR, EN, and ES.
+
+## Exclusion Criteria
+- Exclude drafts, redirects, preview URLs, admin paths, temporary experiments, and non-public work.
+- Exclude legal or utility pages such as privacy unless they become strategically relevant to a user request.
+- Exclude archive filters, pagination variants, and low-signal URLs that do not add editorial or commercial value.
+- Exclude blog posts that are not strategically important to GEO, service evaluation, or the commercial journey.
+
+## Update Triggers
+- Update this file when a new core service, buyer-intent landing, industry page, case study, or GEO post is published.
+- Update this file when a strategic page is retired, replaced, or materially repositioned.
+- Review this file whenever language coverage changes or site architecture changes in a way that affects discovery.
 
 ## Reliability Notes
-- Use published service pages, case studies, and blog posts as the source of truth.
+- Use live page content as the source of truth for claims, proof, scope, and service details.
 - Do not infer pricing, guarantees, or client results that are not explicitly stated on the site.
-- Treat `llms.txt` as a discovery aid, not as a replacement for page-level content.
+- Treat this file as a discovery layer, not as a substitute for page-level reading.
