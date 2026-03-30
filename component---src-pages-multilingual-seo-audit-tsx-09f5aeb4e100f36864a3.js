@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcorpo_code_crafted_studios=self.webpackChunkcorpo_code_crafted_studios||[]).push([[270],{6222:function(e,t,a){a.r(t),a.d(t,{Head:function(){return d}});var n=a(6540),u=a(358);const d=e=>{let{data:t,pageContext:a}=e;return n.createElement(u.mi,{landingKey:"multilingualSeoAudit",data:t,pageContext:a})};t.default=()=>n.createElement(u._O,{landingKey:"multilingualSeoAudit"})}}]);
+//# sourceMappingURL=component---src-pages-multilingual-seo-audit-tsx-09f5aeb4e100f36864a3.js.map
