@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcorpo_code_crafted_studios=self.webpackChunkcorpo_code_crafted_studios||[]).push([[599],{2293:function(e,t,s){s.r(t),s.d(t,{Head:function(){return c}});var n=s(6540),a=s(358);const c=e=>{let{data:t,pageContext:s}=e;return n.createElement(a.mi,{landingKey:"websiteRedesignServiceBusinesses",data:t,pageContext:s})};t.default=()=>n.createElement(a._O,{landingKey:"websiteRedesignServiceBusinesses"})}}]);
-//# sourceMappingURL=component---src-pages-website-redesign-service-businesses-tsx-4ca5ea9e25a4234ed398.js.map

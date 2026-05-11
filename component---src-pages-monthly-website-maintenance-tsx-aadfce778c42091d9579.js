@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkcorpo_code_crafted_studios=self.webpackChunkcorpo_code_crafted_studios||[]).push([[684],{5226:function(e,t,n){n.r(t),n.d(t,{Head:function(){return o}});var a=n(6540),c=n(358);const o=e=>{let{data:t,pageContext:n}=e;return a.createElement(c.mi,{landingKey:"monthlyWebsiteMaintenance",data:t,pageContext:n})};t.default=()=>a.createElement(c._O,{landingKey:"monthlyWebsiteMaintenance"})}}]);
-//# sourceMappingURL=component---src-pages-monthly-website-maintenance-tsx-aadfce778c42091d9579.js.map
